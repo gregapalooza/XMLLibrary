@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<booklist>
+  <book>
+    <title>Ready Player One</title>
+    <author>Ernest Cline</author>
+    <subject>Historical Fiction</subject>
+    <isbn>030788743X</isbn>
+    <dateadded>08/16/2011</dateadded>
+    <numcopies>4</numcopies>
+  </book>
+  <book>
+    <title>IQ84</title>
+    <author>Haruki Murakami</author>
+    <subject>Historical Fiction</subject>
+    <isbn>0307593312</isbn>
+    <dateadded>10/25/2011</dateadded>
+    <numcopies>1</numcopies>
+  </book>
+  <book>
+    <title>Dancing Barefoot</title>
+    <author>Wil Wheaton</author>
+    <subject>Autobiography</subject>
+    <isbn>0596006748</isbn>
+    <dateadded>1/1/2004</dateadded>
+    <numcopies>9</numcopies>
+  </book>
+  <book>
+    <title>Anansi Boys</title>
+    <author>Neil Gaiman</author>
+    <subject>Fiction</subject>
+    <isbn>0060515198</isbn>
+    <dateadded>9/26/2006</dateadded>
+    <numcopies>2</numcopies>
+  </book>
+</booklist>

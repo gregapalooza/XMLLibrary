@@ -1,0 +1,10 @@
+C:\Users\gtvag\source\repos\7LibraryXML\7LibraryXML\bin\Debug\7LibraryXML.exe.config
+C:\Users\gtvag\source\repos\7LibraryXML\7LibraryXML\bin\Debug\7LibraryXML.exe
+C:\Users\gtvag\source\repos\7LibraryXML\7LibraryXML\bin\Debug\7LibraryXML.pdb
+C:\Users\gtvag\source\repos\7LibraryXML\7LibraryXML\obj\Debug\7LibraryXML.csprojAssemblyReference.cache
+C:\Users\gtvag\source\repos\7LibraryXML\7LibraryXML\obj\Debug\_7LibraryXML.Form1.resources
+C:\Users\gtvag\source\repos\7LibraryXML\7LibraryXML\obj\Debug\_7LibraryXML.Properties.Resources.resources
+C:\Users\gtvag\source\repos\7LibraryXML\7LibraryXML\obj\Debug\7LibraryXML.csproj.GenerateResource.cache
+C:\Users\gtvag\source\repos\7LibraryXML\7LibraryXML\obj\Debug\7LibraryXML.csproj.CoreCompileInputs.cache
+C:\Users\gtvag\source\repos\7LibraryXML\7LibraryXML\obj\Debug\7LibraryXML.exe
+C:\Users\gtvag\source\repos\7LibraryXML\7LibraryXML\obj\Debug\7LibraryXML.pdb
